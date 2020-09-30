@@ -1,0 +1,488 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 48523,
+      "max": [
+        1.3594492673873901,
+        0.44143450260162354,
+        0.37431824207305908
+      ],
+      "min": [
+        -1.2141413688659668,
+        -0.84229624271392822,
+        -0.36389151215553284
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 582276,
+      "componentType": 5126,
+      "count": 48523,
+      "max": [
+        0.99999463558197021,
+        0.99993860721588135,
+        0.99999487400054932
+      ],
+      "min": [
+        -0.99999535083770752,
+        -0.99998998641967773,
+        -0.99999475479125977
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 48523,
+      "max": [
+        0.99999940395355225,
+        0.99995666742324829,
+        0.99999791383743286,
+        1
+      ],
+      "min": [
+        -0.99993693828582764,
+        -0.99999964237213135,
+        -0.99999797344207764,
+        -1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 48523,
+      "max": [
+        7.2408928871154785,
+        9.635890007019043
+      ],
+      "min": [
+        -5.7488250732421875,
+        -8.5184555053710938
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 257802,
+      "max": [
+        48522
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1164552,
+      "componentType": 5126,
+      "count": 1572,
+      "max": [
+        1.2735236883163452,
+        0.19982688128948212,
+        -0.15002182126045227
+      ],
+      "min": [
+        -1.1375383138656616,
+        -0.78722065687179565,
+        -0.43338873982429504
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1183416,
+      "componentType": 5126,
+      "count": 1572,
+      "max": [
+        0.98175907135009766,
+        0.99734389781951904,
+        0.99756842851638794
+      ],
+      "min": [
+        -0.9700247049331665,
+        -0.92954838275909424,
+        -0.75967735052108765
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 776368,
+      "componentType": 5126,
+      "count": 1572,
+      "max": [
+        0.99779260158538818,
+        0.99984723329544067,
+        0.69703316688537598,
+        1
+      ],
+      "min": [
+        -0.99896478652954102,
+        -0.99796211719512939,
+        -0.84047776460647583,
+        1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 388184,
+      "componentType": 5126,
+      "count": 1572,
+      "max": [
+        0.6865580677986145,
+        0.58109074831008911
+      ],
+      "min": [
+        0.20613694190979004,
+        0.22945255041122437
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 1031208,
+      "componentType": 5125,
+      "count": 6840,
+      "max": [
+        1571
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "yuri_alogna (https://sketchfab.com/yuri_gryphus)",
+      "license": "CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)",
+      "source": "https://sketchfab.com/3d-models/slatorp-6ba693789e4f4aafb70c6661d5c79f3b",
+      "title": "Slatorp"
+    },
+    "generator": "Sketchfab-8.47.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 1058568,
+      "byteOffset": 0,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 400760,
+      "byteOffset": 1058568,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1202280,
+      "byteOffset": 1459328,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 801520,
+      "byteOffset": 2661608,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 3463128,
+      "uri": "scene.bin"
+    }
+  ],
+  "extensionsRequired": [
+    "KHR_materials_pbrSpecularGlossiness"
+  ],
+  "extensionsUsed": [
+    "KHR_materials_pbrSpecularGlossiness"
+  ],
+  "images": [
+    {
+      "uri": "textures/Fabric_diffuse.jpeg"
+    },
+    {
+      "uri": "textures/Fabric_specularGlossiness.png"
+    },
+    {
+      "uri": "textures/Fabric_normal.jpeg"
+    },
+    {
+      "uri": "textures/Fabric_occlusion.png"
+    },
+    {
+      "uri": "textures/WOOD_diffuse.jpeg"
+    },
+    {
+      "uri": "textures/WOOD_specularGlossiness.png"
+    },
+    {
+      "uri": "textures/WOOD_normal.jpeg"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "extensions": {
+        "KHR_materials_pbrSpecularGlossiness": {
+          "diffuseFactor": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "diffuseTexture": {
+            "index": 0,
+            "texCoord": 0
+          },
+          "glossinessFactor": 0.068588481250307989,
+          "specularFactor": [
+            0,
+            0,
+            0
+          ],
+          "specularGlossinessTexture": {
+            "index": 1,
+            "texCoord": 0
+          }
+        }
+      },
+      "name": "Fabric",
+      "normalTexture": {
+        "index": 2,
+        "scale": 1,
+        "texCoord": 0
+      },
+      "occlusionTexture": {
+        "index": 3,
+        "strength": 0.73572011845199403,
+        "texCoord": 0
+      }
+    },
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "extensions": {
+        "KHR_materials_pbrSpecularGlossiness": {
+          "diffuseFactor": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "diffuseTexture": {
+            "index": 4,
+            "texCoord": 0
+          },
+          "glossinessFactor": 1,
+          "specularFactor": [
+            0,
+            0,
+            0
+          ],
+          "specularGlossinessTexture": {
+            "index": 5,
+            "texCoord": 0
+          }
+        }
+      },
+      "name": "WOOD",
+      "normalTexture": {
+        "index": 6,
+        "scale": 1,
+        "texCoord": 0
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Cube.001_Fabric_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Cube.001_WOOD_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 6,
+            "POSITION": 5,
+            "TANGENT": 7,
+            "TEXCOORD_0": 8
+          },
+          "indices": 9,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "name": "RootNode (gltf orientation matrix)",
+      "rotation": [
+        -0.70710678118654746,
+        -0,
+        -0,
+        0.70710678118654757
+      ]
+    },
+    {
+      "children": [
+        2
+      ],
+      "name": "RootNode (model correction matrix)"
+    },
+    {
+      "children": [
+        3
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        -1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "name": "22e56e97b900409fb065c397622a91e8.fbx"
+    },
+    {
+      "children": [
+        4
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        5,
+        6
+      ],
+      "matrix": [
+        131.77260109661358,
+        3.6581204040596496,
+        -6.2226402439837347,
+        0,
+        -6.7302081795848361,
+        21.143255084369123,
+        -130.09147776072939,
+        0,
+        -2.6091003872108307,
+        130.21406421422446,
+        21.298158893368537,
+        0,
+        -19.538507461547852,
+        43.068893432617188,
+        -176.72291564941406,
+        1
+      ],
+      "name": "Cube.001"
+    },
+    {
+      "mesh": 0,
+      "name": "Cube.001_Fabric_0"
+    },
+    {
+      "mesh": 1,
+      "name": "Cube.001_WOOD_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "OSG_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    },
+    {
+      "sampler": 0,
+      "source": 3
+    },
+    {
+      "sampler": 0,
+      "source": 4
+    },
+    {
+      "sampler": 0,
+      "source": 5
+    },
+    {
+      "sampler": 0,
+      "source": 6
+    }
+  ]
+}
+
